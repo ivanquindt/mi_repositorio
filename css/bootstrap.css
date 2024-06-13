@@ -1,0 +1,36 @@
+.container-fluid {
+    background-color:beige
+    
+
+    
+}
+.carousel-inner{
+    text-align: center;
+    padding: 100px;
+    gap: 6.25rem;
+}
+.carouselExample{
+    background-color: black;
+    
+}
+
+.body {
+    background-color: black;
+}
+
+.textoarriba {
+    text-align: center;
+    background-color: beige;
+    padding: 100px;
+}
+
+
+.carousel-slide{
+    background-color:
+}
+
+
+.controlcarouselatras{
+    color: black;
+    padding: 100px;
+}
