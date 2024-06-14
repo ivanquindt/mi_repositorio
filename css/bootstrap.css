@@ -55,7 +55,7 @@
 
 #Galeria img{
     align-items: center;
-    
+    padding-left: 30px;
 }
 #Galeria .col-lg-4{
     padding: 25px;
@@ -67,6 +67,7 @@
 
 }
 
-.poster{
-    gap: 1.875rem;
+.poster {
+    align-items: center;
+    padding-left: 100px;
 }
