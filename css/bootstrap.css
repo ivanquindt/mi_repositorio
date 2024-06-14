@@ -1,18 +1,46 @@
-.container-fluid {
-    background-color:beige
-    
+
+#carouselExample .carousel-inner {
+    align-items: center;
+    padding-left: 37%;
+    background-color: gray;
 
     
+    
+
 }
-.carousel-inner{
-    text-align: center;
-    padding: 100px;
-    gap: 6.25rem;
+
+#carouselExample .img{
+    width:250px;
+    
+    
+
 }
-.carouselExample{
+#carouselExample .carousel-control-prev{
     background-color: black;
+    width: 300px;
+
+
+}
+
+#carouselExample .carousel-control-next{
+    background-color: black;
+    width: 300px;
     
 }
+
+#carouselExample .carousel-item{
+    padding: 100px;
+    align-items: center;
+    
+    
+}
+
+#carousel-item{
+    width: 30px;
+    align-items: center;
+}
+
+
 
 .body {
     background-color: black;
@@ -25,12 +53,20 @@
 }
 
 
-.carousel-slide{
-    background-color:
+#Galeria img{
+    align-items: center;
+    
+}
+#Galeria .col-lg-4{
+    padding: 25px;
+    
 }
 
+#carousel-indicator-hit-area-{
+    height:400px
 
-.controlcarouselatras{
-    color: black;
-    padding: 100px;
+}
+
+.poster{
+    gap: 1.875rem;
 }
