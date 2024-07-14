@@ -50,6 +50,7 @@
     text-align: center;
     background-color: beige;
     padding: 100px;
+    
 }
 
 
@@ -67,7 +68,9 @@
 
 }
 
-.poster {
-    align-items: center;
-    padding-left: 100px;
+#poster {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
+

@@ -1,0 +1,58 @@
+#carouselExample {
+    .carousel-inner {
+      align-items: center;
+      padding-left: 37%;
+      background-color: gray;
+    }
+  
+    .img {
+      width: 250px;
+    }
+  
+    .carousel-control-prev, .carousel-control-next {
+      background-color: black;
+      width: 300px;
+    }
+  
+    .carousel-item {
+      padding: 100px;
+      align-items: center;
+    }
+  }
+  
+  #carousel-item {
+    width: 30px;
+    align-items: center;
+  }
+  
+  .body {
+    background-color: black;
+  }
+  
+  .textoarriba {
+    text-align: center;
+    background-color: beige;
+    padding: 100px;
+  }
+  
+  #Galeria {
+    img {
+      align-items: center;
+      padding-left: 30px;
+    }
+  
+    .col-lg-4 {
+      padding: 25px;
+    }
+  }
+  
+  #carousel-indicator-hit-area- {
+    height: 400px;
+  }
+  
+  #poster {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
